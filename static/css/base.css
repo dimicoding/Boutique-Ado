@@ -89,6 +89,13 @@ a.category-badge > span.badge:hover {
 input[name='q']::placeholder {
     color: #aab7c4;
 }
+.btn-outline-black:hover,
+.btn-outline-black:active,
+.btn-outline-black:focus {
+    background: black;
+    color: white !important;
+}
+
 
 
 /* -------------------------------- Media Queries */
